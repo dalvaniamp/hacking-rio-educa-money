@@ -1,0 +1,4 @@
+<div>Ícones feitos por:
+<a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> </br>
+<a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> </br>
+</div>

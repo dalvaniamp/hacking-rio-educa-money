@@ -1,0 +1,65 @@
+{
+  "Aula 1": [
+    {
+      "title": "Bem-vindo à primeira lição!",
+      "text": "Dinheiro nada mais é do que um instrumento utilizado nas trocas comerciais da sociedade.",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "text": "Nesse jogo, o dinheiro é chamado de Minerva. Você recebe uma quantia de Minervas por dia, dependendo do seu nível de conhecimento.",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "text": "Você pode utilizar Minervas para comprar itens ou serviços para o seu personagem pois seu personagem tem necessidades assim como você. ",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "text": "Fome, lazer  e saúde são as necessidades básicas. Você pode verificar o seu personagem a qualquer momento.",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "text": "Por exemplo, agora o seu personagem está faminto. Ninguém consegue aprender com fome, não é? Agora é hora de alimentar o seu personagem.",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "title": "Você está pronto?",
+      "iconBaseLocation": "assets/icons/currency.png",
+      "question": "Claro!*"
+    }
+  ],
+  "Aula 2": [
+    {
+      "title": "Segunda lição",
+      "text": "Hoje vamos falar sobre..",
+      "iconBaseLocation": "assets/icons/currency.png"
+    },
+    {
+      "title": "Dá uma olhada!",
+      "iconBaseLocation": "assets/icons/currency.png",
+      "iconImageLocation": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    },
+    {
+      "title": "Nos vemos na próxima aula!",
+      "iconBaseLocation": "assets/icons/currency.png",
+      "question": "Até mais!*"
+    }
+  ],
+  "Aula 3": [
+    {
+      "title": "Aprendendo sobre..",
+      "text": "Você já pensou sobre...",
+      "iconBaseLocation": "assets/gif/desperdicio.gif"
+    },
+    {
+      "text": "",
+      "iconBaseLocation": "assets/icons/currency.png",
+      "iconImageLocation": "assets/icons/currency.png"
+    },
+    {
+      "title": "Nessa situação, o que você faria",
+      "iconBaseLocation": "assets/icons/currency.png",
+      "question": "Claro que queimaria também!*Nunca desperdiço*Talvez*"
+    }
+  ]
+
+}
